@@ -1,0 +1,1 @@
+# Malarial-Infection-Prediction-Model
